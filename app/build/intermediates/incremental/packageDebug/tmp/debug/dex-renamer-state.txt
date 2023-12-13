@@ -1,0 +1,4 @@
+#Wed Dec 13 10:45:18 EAT 2023
+base.0=C\:\\Users\\le\\AndroidStudioProjects\\PillarMachine3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
